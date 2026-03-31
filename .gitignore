@@ -1,0 +1,15 @@
+# Data files (too large / sensitive)
+*.csv
+*.xlsx
+*.json
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+__pycache__/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Colab outputs
+*.out
