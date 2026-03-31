@@ -21,10 +21,9 @@ This project processes a dataset of **10,000 telecom customers** to:
 ```
 telecom-churn-spark/
 │
-├── telecom_churn_hw2.ipynb   # Main notebook (PySpark, Spark SQL, MLlib)
+├── telecom_churn.ipynb       # Main notebook (PySpark, Spark SQL, MLlib)
 ├── README.md                 # Project documentation
-└── report/
-    └── report.pdf            # Full technical report (Greek)
+
 ```
 
 > ⚠️ **Note:** The dataset file `telecom_churn_10k.csv` is not included in this repository due to size constraints. The notebook expects it to be uploaded to Google Colab before execution.
